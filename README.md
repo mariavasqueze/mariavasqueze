@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariavasqueze
+- 👋 Hi, I’m Maria :)
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on website development projects
