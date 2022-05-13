@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Maria :)
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML, CSS, Javascript, and C#
-- 💞️ I’m looking to collaborate on website development projects
-- 📫 How to reach me mariadelmarvze@gmail.com / IG: mariavasqueze
+- 🌱 I’m currently learning Javascript, C#, PHP, and Java
+- 💞️ I’m looking to collaborate on website development or full-stack projects
+- 📫 Send me a message at: mariadelmarvze@gmail.com / IG: mariavasqueze
 
 <!---
 mariavasqueze/mariavasqueze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
