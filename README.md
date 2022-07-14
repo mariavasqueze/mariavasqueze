@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Maria :)
-- 🌱 I’m currently learning Javascript, C#, PHP, and Java
+- 🌱 I'm on the path of becoming a software developer. 
+- ✅ Skills on HTML, CSS, JavaScript, Node, C#
+- 👩🏽‍💻 Learning React, Java, PHP
 - 💞️ I’m looking to collaborate on website development or full-stack projects
 - 📫 Send me a message at: mariadelmarvze@gmail.com / IG: mariavasqueze
 
