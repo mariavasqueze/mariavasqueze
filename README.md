@@ -3,7 +3,8 @@
 #### ✅ I’m creative, analytical, and a problem solver.
 #### ⭐️ I take my background in business and digital marketing to solve programming problems from the user’s perspective and needs.
 #### 👀 Check out the live versions of my project on my portfolio site: mariavze.com
-#### 💬 Send me a message on LinkedIn to collaborate:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-vasqueze) 
+#### 💬 Send me a message on LinkedIn to collaborate:  
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-vasqueze) 
 
 
 
